@@ -1,0 +1,9 @@
+Air Quality and the Air Quality Index
+
+Air pollution is measured by tracking the concentration of pollutants in the atmosphere. The most closely monitored pollutants are PM2.5, PM10, nitrogen dioxide, sulphur dioxide, ozone and carbon monoxide. PM2.5 refers to fine particles with a diameter of 2.5 micrometres or smaller. These particles are dangerous because they are small enough to enter the lungs and even the bloodstream, and long-term exposure is linked to heart and respiratory disease.
+
+In India, the Central Pollution Control Board (CPCB) publishes the National Air Quality Index, which converts pollutant readings into a single number between 0 and 500. The categories are Good (0 to 50), Satisfactory (51 to 100), Moderate (101 to 200), Poor (201 to 300), Very Poor (301 to 400) and Severe (401 to 500). The higher the number, the greater the health risk, especially for children, older adults and people with asthma.
+
+Pollution levels change with the seasons. In north India, winter air is often worse because cold air traps pollutants close to the ground, and crop residue burning and festival fireworks add to the problem. Monsoon rain tends to wash particles out of the air, so readings usually improve between June and September.
+
+Cities reduce pollution through measures such as cleaner public transport, dust control at construction sites, stricter vehicle emission standards and industrial monitoring. Data analysts support these efforts by studying monitoring-station data to find pollution hotspots and long-term trends.

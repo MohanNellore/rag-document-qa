@@ -1,0 +1,11 @@
+Retrieval-Augmented Generation (RAG) Explained
+
+Large language models are trained on huge amounts of text, but they do not know your private documents and can sometimes produce confident but incorrect answers, which is called hallucination. Retrieval-Augmented Generation, or RAG, addresses this by giving the model relevant information at question time.
+
+A RAG system works in two phases. In the indexing phase, documents are loaded, split into small chunks, and converted into numeric vectors called embeddings. These vectors are stored in a vector database. In the query phase, the user's question is converted into an embedding, the most similar chunks are retrieved using cosine similarity, and those chunks are added to the prompt so that the language model can answer using them as context.
+
+Chunk size matters. Chunks that are too large dilute the meaning and waste the context window, while chunks that are too small lose important context. Overlap between neighbouring chunks helps keep ideas intact across boundaries.
+
+Embeddings capture meaning, so a question about "heart problems" can match a passage about "cardiac disease" even when the words differ. Keyword methods such as TF-IDF only match shared words, which is simpler but less flexible. Many production systems combine both approaches, which is known as hybrid search.
+
+RAG quality is measured in two parts: retrieval quality, such as whether the correct chunk appears in the top results, and answer quality, such as whether the final answer is accurate and grounded in the retrieved sources.

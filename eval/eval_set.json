@@ -1,0 +1,11 @@
+[
+  {"question": "What are the AQI categories used in India?", "expected_source": "air_quality.txt"},
+  {"question": "Why is PM2.5 dangerous for health?", "expected_source": "air_quality.txt"},
+  {"question": "Which season usually has worse air in north India?", "expected_source": "air_quality.txt"},
+  {"question": "What is the difference between BEV and PHEV?", "expected_source": "electric_vehicles.txt"},
+  {"question": "What type of battery do most EVs use?", "expected_source": "electric_vehicles.txt"},
+  {"question": "What affects EV adoption?", "expected_source": "electric_vehicles.txt"},
+  {"question": "What is hallucination in language models?", "expected_source": "rag_explained.txt"},
+  {"question": "Why does chunk overlap help?", "expected_source": "rag_explained.txt"},
+  {"question": "What is hybrid search?", "expected_source": "rag_explained.txt"}
+]

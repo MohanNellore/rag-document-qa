@@ -1,0 +1,9 @@
+Electric Vehicles: The Basics
+
+An electric vehicle (EV) uses an electric motor powered by a rechargeable battery instead of a petrol or diesel engine. Because there is no tailpipe, EVs produce zero direct exhaust emissions, which helps reduce air pollution in busy cities. Their overall carbon footprint also depends on how the electricity used for charging is generated.
+
+There are several types of EVs. A battery electric vehicle (BEV) runs only on electricity. A plug-in hybrid (PHEV) combines a battery with a petrol engine and can be charged from a socket. A conventional hybrid charges its small battery through braking and the engine and cannot be plugged in.
+
+Most modern EVs use lithium-ion batteries. Range, meaning the distance a car can travel on one full charge, varies widely from about 150 kilometres for small city cars to over 500 kilometres for premium models. Charging comes in three broad levels: slow home charging that takes many hours, fast AC charging, and DC fast charging that can add most of the battery in under an hour.
+
+EV adoption depends on factors such as purchase price, government incentives, the number of public charging stations and the local cost of electricity. Analysts often study adoption by region and demographics to decide where new charging stations should be built.

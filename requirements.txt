@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+pypdf
+python-dotenv
+streamlit
+
+# Optional - install only what you need:
+# sentence-transformers   # semantic embeddings (downloads a small model on first run)
+# google-genai            # Gemini LLM (has a free tier)
+# openai                  # OpenAI LLM
+# anthropic               # Claude LLM
