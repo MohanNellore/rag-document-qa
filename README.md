@@ -45,7 +45,7 @@ rag-document-qa/
 
 ## Quick start
 ```bash
-git clone https://github.com/<your-username>/rag-document-qa.git
+git clone https://github.com/<Mohan_Nellore>/rag-document-qa.git
 cd rag-document-qa
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
